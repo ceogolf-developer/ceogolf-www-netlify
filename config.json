@@ -3,11 +3,7 @@
   "site_title": "CEO Golf",
   "site_description": "The private business club for golfers.",
   "site_keywords": [
-    "ceo",
-    "golf",
-    "business club",
-    "ceo golf",
-    "golfers"
+    "ceo"
   ],
   "posts_per_page": 5,
   "twitter_account": "@ceogolf",
